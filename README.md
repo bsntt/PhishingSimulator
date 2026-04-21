@@ -1,0 +1,1 @@
+Phishing Awareness Simulator is a simple Python GUI application built with Tkinter that helps users learn to identify phishing emails. It presents different email subjects and allows users to classify them as “phishing” or “safe.” At the end, the application provides a score and feedback report, making it a useful educational tool for improving cybersecurity awareness.
