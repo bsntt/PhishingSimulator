@@ -6,7 +6,7 @@ emails = [
     {"subject": "Urgent: Verify Your Bank Account", "is_phishing": True},
     {"subject": "Project Meeting at 10 AM", "is_phishing": False},
     {"subject": "Reset Your Password Now!", "is_phishing": True},
-    {"subject": "Happy Birthday! 🎉", "is_phishing": False},
+    {"subject": "Happy Birthday! ", "is_phishing": False},
     {"subject": "You have won the lottery", "is_phishing": True}
 ]
 
